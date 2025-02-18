@@ -61,6 +61,8 @@ mohit45v@github
 <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="50px"></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px"></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=vite" width="50px"></td>
 </tr>
 </table>
 
