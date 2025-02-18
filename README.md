@@ -41,6 +41,7 @@ mohit45v@github
 <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=express" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px"></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50px"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50px"></td>
@@ -50,6 +51,7 @@ mohit45v@github
 <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=java" width="50px"></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=python" width="50px"></td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50px"></td>
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50px"></td>
