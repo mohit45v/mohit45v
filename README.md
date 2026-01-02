@@ -13,7 +13,6 @@
 
 <!-- About Me -->
 ## 🤔 About Me  
-yaml
 mohit45v@github
 -----------------
 💻 Passionate Full Stack Developer  
@@ -89,16 +88,6 @@ mohit45v@github
 |---------------|------------|------------|
 | *Invoisify* | React, Node.js, MongoDB | [GitHub](https://github.com/mohit45v/invoisify) |
 | *InfluenceIQ* | MERN Stack, Tailwind CSS | [GitHub](https://github.com/mohit45v/influenceiq) |
-| *SmartPack* | React, Express, Firebase | [GitHub](https://github.com/mohit45v/smartpack) |
-| *Parkly* | Node.js, MongoDB, Bootstrap | [GitHub](https://github.com/mohit45v/parkly) |
-
----
-
-<!-- Quote -->
-## 💡 Coding Wisdom  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia">
-</p>
 
 ---
 
