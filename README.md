@@ -74,6 +74,7 @@ mohit45v@github
   <img src="https://github-readme-stats.vercel.app/api?username=mohit45v&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit45v&theme=radical&hide_border=true" width="48%" />
 </p> -->
+<img src="https://streak-stats.demolab.com/?user=mohit45v" width="48%"/>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit45v&theme=github&hide_border=true" />
