@@ -107,7 +107,7 @@
         <a href="https://linkedin.com/in/mohit" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a><br/><br/>
-        <a href="mailto:mohit45v@gmail.com">
+        <a href="mailto:mohit.dhangar88@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a><br/><br/>
         <a href="https://twitter.com/mohit45v" target="_blank">
