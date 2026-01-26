@@ -88,19 +88,37 @@
   </tr>
 </table>
 
----
+### 🧩 Competitive & Social
 
-<div align="center">
-  <a href="https://linkedin.com/in/mohit" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mohit45v@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/mohit45v">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💡 LeetCode Stats</h4>
+      <p align="center">
+        <a href="https://leetcode.com/MOHITD45">
+          <img src="https://leetcard.jacoblin.cool/MOHITD45?theme=transparent&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="100%" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 Connect With Me</h4>
+      <p>Feel free to reach out for collaborations or just a tech chat!</p>
+      <div align="center">
+        <a href="https://linkedin.com/in/mohit" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+        </a><br/><br/>
+        <a href="mailto:mohit45v@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a><br/><br/>
+        <a href="https://twitter.com/mohit45v" target="_blank">
+          <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
 
 <br/>
 
