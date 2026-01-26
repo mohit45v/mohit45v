@@ -1,100 +1,96 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  Hey there! I'm <span style="color:#FFA500;">Mohit</span> 👨‍💻
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Explorer%20|%20AI%20Integration%20Specialist&descSize=20&descAlignY=60" width="100%"/>
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7A93A&center=true&vCenter=true&width=550&height=50&lines=MERN+Stack+Developer;Full+Stack+Explorer;Always+Learning+New+Things;Passionate+about+Building+Cool+Stuff!">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366f1&center=true&vCenter=true&width=500&height=40&lines=Crafting+Scalable+Web+Apps;Integrating+Intelligent+AI;MERN+%26+Next.js+Developer">
   </a>
 </p>
 
----
+### 🧊 Personal Workspace
 
-<!-- About Me -->
-## 🤔 About Me  
-mohit45v@github
------------------
-💻 Passionate Full Stack Developer  
-🌍 Exploring the world of MERN Stack  
-📜 Experienced with Frontend, Backend & Databases  
-⚡ Love working with React, Node.js & MongoDB  
-🚀 Open source contributor & tech enthusiast  
-📈 Always hungry to learn & grow
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h4>👨‍💻 About Me</h4>
+      <p>I'm a <b>Full Stack Developer</b> obsessed with building clean, performant, and user-centric applications. Currently bridging the gap between traditional web dev and <b>Generative AI</b>.</p>
+      <ul>
+        <li>🔭 Working on: <b>SymptomSage AI</b></li>
+        <li>🌱 Learning: <b>Cloud Native & Deep Learning</b></li>
+        <li>⚡ Goal: <b>Automating the world, one line at a time.</b></li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h4>🚀 Quick Stats</h4>
+      <p align="center">
+        <img height="150" src="https://github-readme-stats.vercel.app/api?username=mohit45v&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=71717a" />
+      </p>
+    </td>
+  </tr>
+</table>
 
+### �️ Tech Stack
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <b>Frontend</b><br/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&perline=4&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>Backend</b><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,supabase,firebase&perline=4&theme=dark" />
+    </td>
+    <td align="center" width="33%">
+      <b>DevOps & AI</b><br/>
+      <img src="https://skillicons.dev/icons?i=py,aws,docker,git,linux,vercel&perline=4&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+### 📊 Coding Activity
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit45v&theme=transparent&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="100%" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit45v&theme=react-dark&hide_border=true&area=true&bg_color=00000000&color=6366f1" width="100%" />
+</p>
 
-<!-- Tech Stack -->
-## 🚀 My Tech Stack  
-<table align="center">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=express" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px"></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="50px"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=php" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=c" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=java" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=python" width="50px"></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50px"></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=aws" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=linux" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=docker" width="50px"></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="50px"></td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="50px"></td>
-  
-</tr>
+### 🏆 Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b>🩺 SymptomSage AI</b><br/>
+      AI-Doctor for Pre-Clinical Diagnosis.<br/>
+      <code>Next.js</code> <code>Gemini AI</code> <code>Supabase</code>
+    </td>
+    <td width="50%">
+      <b>📊 SocialMedia Analyzer</b><br/>
+      AI-driven engagement insights.<br/>
+      <code>React</code> <code>Node.js</code> <code>AstraDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <b>🧾 Invoisify</b><br/>
+      Professional invoice generation.<br/>
+      <code>MERNStack</code> <code>Tailwind</code>
+    </td>
+    <td width="50%">
+      <b>🎯 InfluenceIQ</b><br/>
+      Influencer marketing analytics.<br/>
+      <code>MERNStack</code> <code>Chart.js</code>
+    </td>
+  </tr>
 </table>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats  
-
- <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohit45v&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=mohit45v&theme=radical&hide_border=true" width="48%" /> -->
-</p> 
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit45v&theme=github&hide_border=true" />
-</p>
-
----
-
-<!-- Projects -->
-## 🚀 Featured Projects  
-
-| 🔥 Project Name | 🚀 Tech Stack | 🔗 Repository |
-|---------------|------------|------------|
-| *Invoisify* | React, Node.js, MongoDB | [GitHub](https://github.com/mohit45v/invoisify) |
-| *InfluenceIQ* | MERN Stack, Tailwind CSS | [GitHub](https://github.com/mohit45v/influenceiq) |
-
----
-
-<!-- Connect With Me -->
-## 🌎 Connect With Me  
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/mohit" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -104,12 +100,10 @@ mohit45v@github
   <a href="https://github.com/mohit45v">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg">
-  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg">
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg">
-</p>
+<br/>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=30&section=footer" width="100%"/>
+</div>
