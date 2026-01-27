@@ -1,5 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohit&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Explorer%20|%20AI%20Integration%20Specialist&descSize=20&descAlignY=60" width="100%"/>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=mohit45v&label=Profile%20Views&color=6366f1&style=flat" alt="Profile Views" />
+  </p>
 </div>
 
 <p align="center">
@@ -50,6 +53,10 @@
 </table>
 
 ### 📊 Coding Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohit45v/mohit45v/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit45v&theme=transparent&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" width="100%" />
@@ -110,7 +117,7 @@
         <a href="mailto:mohit.dhangar88@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
         </a><br/><br/>
-        <a href="https://twitter.com/mohit45v" target="_blank">
+        <a href="https://twitter.com/mohit_45v" target="_blank">
           <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
         </a>
       </div>
@@ -119,6 +126,30 @@
 </table>
 
 ---
+
+### 🗞️ Latest Activity & Posts
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🐦 Latest Tweets</h4>
+      <!-- TWEETS_START -->
+      <p><i>Stay tuned for live updates from X!</i></p>
+      <!-- TWEETS_END -->
+    </td>
+    <td width="50%" valign="top">
+      <h4>✍️ Recent Blog Posts</h4>
+      <!-- BLOG_POSTS_START -->
+      <p><i>Fresh articles coming soon!</i></p>
+      <!-- BLOG_POSTS_END -->
+    </td>
+  </tr>
+</table>
+
+### ⚡ GitHub Activity Feed
+<!-- START_SECTION:activity -->
+<p><i>Working on cool new things... check back soon!</i></p>
+<!-- END_SECTION:activity -->
 
 <br/>
 
