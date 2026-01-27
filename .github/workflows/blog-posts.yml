@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/mohit45v" # Replace with your feed URL
+          feed_list: "https://mohitd.hashnode.dev/rss.xml" # Replace with your feed URL
           comment_tag_name: "BLOG_POSTS"
