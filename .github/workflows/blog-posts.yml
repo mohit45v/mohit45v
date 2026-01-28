@@ -1,17 +1,17 @@
-name: Latest Blog Posts
+# name: Latest Blog Posts
 
-on:
-  schedule:
-    - cron: "0 * * * *" # hourly
-  workflow_dispatch:
+# on:
+#   schedule:
+#     - cron: "0 * * * *" # hourly
+#   workflow_dispatch:
 
-jobs:
-  update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          feed_list: "https://mohitd.hashnode.dev/rss.xml" # Replace with your feed URL
-          comment_tag_name: "BLOG_POSTS"
+# jobs:
+#   update-readme-with-blog:
+#     name: Update this repo's README with latest blog posts
+#     runs-on: ubuntu-latest
+#     steps:
+#       - uses: actions/checkout@v3
+#       - uses: gautamkrishnar/blog-post-workflow@master
+#         with:
+#           feed_list: "https://mohitd.hashnode.dev/rss.xml" # Replace with your feed URL
+#           comment_tag_name: "BLOG_POSTS"
