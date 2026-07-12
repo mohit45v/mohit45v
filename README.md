@@ -7,14 +7,15 @@
 </p>
 
 <p align="center">
-  <video src="https://github.com/mohit45v/mohit45v/raw/main/assets/A_cinematic_D_illustrated_an.mp4" autoplay loop muted playsinline width="600"></video>
-</p>
-
-<p align="center">
   <a href="https://mohitbuilds.me"><img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohit45v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/mohit_45v"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:mohit.dhangar88@gmail.com"><img src="https://img.shields.io/badge/Email-F09819?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mohit45v&label=Profile%20Views&color=F09819&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/mohit45v/mohit45v/raw/main/assets/A_cinematic_D_illustrated_an.mp4" alt="Developer Animation" width="600" />
 </p>
 
 <i>Final-year BE Computer Engineering student building production web systems and AI-integrated applications — from multi-tenant SaaS backends to LLM-powered automation pipelines. Currently working on a multi-agent job-application pipeline.</i>
