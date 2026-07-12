@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mohit45v/mohit45v/raw/main/assets/A_cinematic_D_illustrated_an.mp4" alt="Developer Animation" width="600" />
+  <img src="assets/developer_animation.gif" width="600" alt="Developer Animation" />
 </p>
 
 <i>Final-year BE Computer Engineering student building production web systems and AI-integrated applications — from multi-tenant SaaS backends to LLM-powered automation pipelines. Currently working on a multi-agent job-application pipeline.</i>
