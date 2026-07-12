@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0f0f,100:1a1a2e&height=120&section=header&text=MOHIT&fontSize=42&fontColor=6366f1&fontAlignY=55&desc=Full-Stack%20Developer%20%C2%B7%20AI%20Agent%20Engineer&descSize=15&descColor=a1a1aa&descAlignY=80&animation=fadeIn" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=MOHIT%20DHANGAR&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Integrator&descSize=20&descColor=ffffff&descAlignY=65&animation=fadeIn" width="100%" alt="Header" />
 
 <p align="center">
-  <a href="https://mohitbuilds.me"><img src="https://img.shields.io/badge/Portfolio-6366f1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=F09819&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Systems;Integrating+Generative+AI;Crafting+Elegant+Interfaces" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://mohitbuilds.me"><img src="https://img.shields.io/badge/Portfolio-FF512F?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mohit45v/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/mohit_45v"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:mohit.dhangar88@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mohit.dhangar88@gmail.com"><img src="https://img.shields.io/badge/Email-F09819?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <i>Final-year BE Computer Engineering student building production web systems and AI-integrated applications — from multi-tenant SaaS backends to LLM-powered automation pipelines. Currently working on a multi-agent job-application pipeline (Gemini) and VoIP/SIP infrastructure (Twilio, FreePBX).</i>
@@ -15,7 +19,7 @@
 
 ---
 
-### 💼 Experience
+### 🔶 Experience
 
 **Full-Stack Developer Intern** @ Akashic Technologies
 > Built B2B automation and business-messaging features on a multi-tenant WhatsApp SaaS platform.
@@ -69,27 +73,22 @@
 
 ---
 
-### 🏆 Achievements & Stats
+### 🏆 Achievements
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/AMD_Slingshot-2nd_Runner--Up-6366f1?style=for-the-badge" alt="AMD Slingshot" />
-    <img src="https://img.shields.io/badge/HackFusion-Top_8-6366f1?style=for-the-badge" alt="HackFusion" />
-    <img src="https://img.shields.io/badge/GDG_Cloud_Mumbai-85.92%25_Score-6366f1?style=for-the-badge" alt="GDG Cloud Mumbai" />
+    <img src="https://img.shields.io/badge/AMD_Slingshot-2nd_Runner--Up-FF512F?style=for-the-badge" alt="AMD Slingshot" />
+    <img src="https://img.shields.io/badge/HackFusion-Top_8-FF512F?style=for-the-badge" alt="HackFusion" />
+    <img src="https://img.shields.io/badge/GDG_Cloud_Mumbai-85.92%25_Score-FF512F?style=for-the-badge" alt="GDG Cloud Mumbai" />
   </p>
-  
-  <br/>
-  
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohit45v&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=71717a&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit45v&theme=transparent&hide_border=true&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&bg_color=00000000" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
   <a href="https://leetcode.com/MOHITD45">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-F09819?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,100:0f0f0f&height=4&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F09819,100:FF512F&height=8&section=footer" width="100%" alt="Footer" />
