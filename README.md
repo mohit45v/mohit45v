@@ -11,7 +11,7 @@
 
 <br/>
 
-Final-year BE Computer Engineering student building production web systems and AI-integrated applications — from multi-tenant SaaS backends to LLM-powered automation pipelines. Currently working on a multi-agent job-application pipeline (Gemini) and VoIP/SIP infrastructure (Twilio, FreePBX).
+Final-year BE Computer Engineering student building production web systems and AI-integrated applications — from multi-tenant SaaS backends to LLM-powered automation pipelines. Currently working on a multi-agent job-application pipeline.
 
 <br/>
 
