@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <video src="assets/A_cinematic_D_illustrated_an.mp4" autoplay loop muted playsinline width="600"></video>
+  <video src="https://github.com/mohit45v/mohit45v/raw/main/assets/A_cinematic_D_illustrated_an.mp4" autoplay loop muted playsinline width="600"></video>
 </p>
 
 <p align="center">
