@@ -95,6 +95,37 @@ AI pre-clinical diagnosis assistant, submitted to the Google AI Hackathon.
 
 <sub>AI tooling — Gemini API · Claude API · Langflow</sub>
 
+<br/>
+
+### `github-stats`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mohit45v/mohit45v/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Snake animation" width="100%" />
+</div>
+
+<br/>
+
+### `activity & updates`
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ Recent GitHub Activity</h4>
+      <!-- START_SECTION:activity -->
+      <!-- END_SECTION:activity -->
+    </td>
+    <td width="50%" valign="top">
+      <h4>✍️ Recent Blog Posts</h4>
+      <!-- BLOG_POSTS_START -->
+      <!-- BLOG_POSTS_END -->
+      <br/>
+      <h4>🐦 Latest Tweets</h4>
+      <!-- TWEETS_START -->
+      <!-- TWEETS_END -->
+    </td>
+  </tr>
+</table>
+
 <br/><br/>
 
 <div align="center">
